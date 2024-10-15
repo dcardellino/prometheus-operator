@@ -29034,6 +29034,19 @@ int64
 </tr>
 <tr>
 <td>
+<code>messageThreadID</code><br/>
+<em>
+int64
+</em>
+</td>
+<td>
+<em>(Optional)</em>
+<p>The Telegram Group Topic ID.
+It requires Alertmanager &gt;= 0.26.0.</p>
+</td>
+</tr>
+<tr>
+<td>
 <code>message</code><br/>
 <em>
 string
@@ -32752,6 +32765,19 @@ int64
 </td>
 <td>
 <p>The Telegram chat ID.</p>
+</td>
+</tr>
+<tr>
+<td>
+<code>messageThreadID</code><br/>
+<em>
+int64
+</em>
+</td>
+<td>
+<em>(Optional)</em>
+<p>The Telegram Group Topic ID.
+It requires Alertmanager &gt;= 0.26.0.</p>
 </td>
 </tr>
 <tr>
